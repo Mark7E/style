@@ -1,0 +1,21 @@
+h1 {
+
+    color: #00FFFF;
+    background-color: black; 
+}
+
+span {color: red;}
+
+
+
+h2{
+    background-color: #663399;
+    color: white;
+}
+h3 {
+    background-color: #9FC5F8;
+    color:black;
+    text-align: right;
+    text-decoration: underline;
+    text-underline-position: below;
+}
